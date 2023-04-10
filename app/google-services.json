@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612051125125",
+    "project_id": "mercadinho-nativo-91aeb",
+    "storage_bucket": "mercadinho-nativo-91aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612051125125:android:c80e85ed6eb1894a287aec",
+        "android_client_info": {
+          "package_name": "com.example.mercadinhonativo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612051125125-32n5qg1jrogrp8r27fntp9hs6etsnc0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGYXWoIlrmbph4s1wCrUuXbft8H9twGvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612051125125-32n5qg1jrogrp8r27fntp9hs6etsnc0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
